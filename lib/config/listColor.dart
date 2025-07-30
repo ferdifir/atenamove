@@ -1,0 +1,34 @@
+class ListColor {
+  static const int linearBlue1 = 0xFF297DEE;
+  static const int linearBlue2 = 0xFF7DC4F7;
+  static const int infoPressed = 0xFF01508E;
+  static const int infoHover = 0xFF1593ED;
+  static const int infoMain = 0xffFC7A24;
+  static const int infoBorder = 0xFFECF6FE;
+  static const int infoSurface = 0xFFFEE7DB;
+  static const int successPressed = 0xFF1D7228;
+  static const int successHover = 0xFF238B31;
+  static const int successMain = 0xFF00FF28;
+  static const int successBorder = 0xFFC3DFC7;
+  static const int successSurface = 0xFFF0F7F5;
+  static const int warningPressed = 0xFFCD7304;
+  static const int warningHover = 0xFFDC7C05;
+  static const int warningMain = 0xFFE98305;
+  static const int warningBorder = 0xFFFAE2C7;
+  static const int warningSurface = 0xFFFCF9F2;
+  static const int dangerPressed = 0xFF9D1515;
+  static const int dangerHover = 0xFFB91919;
+  static const int dangerMain = 0xFFD21C1C;
+  static const int dangerBorder = 0xFFF4D2D2;
+  static const int dangerSurface = 0xFFFCF3F2;
+  static const int neutral100 = 0xFF000000;
+  static const int neutral90 = 0xFF323F4B;
+  static const int neutral80 = 0xFF475A6B;
+  static const int neutral70 = 0xFF7B8794;
+  static const int neutral60 = 0xFF9AA5B1;
+  static const int neutral50 = 0xFFCBD2D9;
+  static const int neutral40 = 0xFFE4E7EB;
+  static const int neutral30 = 0xFFF2F3F5;
+  static const int neutral20 = 0xFFF8F9FA;
+  static const int neutral10 = 0xFFFFFFFF;
+}
